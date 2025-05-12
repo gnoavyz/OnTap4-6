@@ -1,0 +1,70 @@
+Ngo Van A-2008-Ha Noi-8.1
+1027-Ngo Thi D-2000-6.0-8.7-9.8
+1033-Vo Thi J-2002-8.1-9.3-9.6
+1016-Vo Van C-2001-6.3-8.9-6.2
+1013-Pham Thi B-2002-9.5-5.8-9.4
+Dang Van E-2005-Da Nang-8.5
+Le Thi J-2005-Ha Noi-5.4
+Tran Thi H-2009-Da Nang-9.7
+1028-Ngo Thi F-2003-5.7-9.1-9.3
+1014-Le Thi F-2000-5.4-5.9-7.9
+Hoang Thi J-2005-Da Nang-7.8
+Vo Thi B-2007-Hue-6.6
+Le Thi H-2009-Thanh Hoa-7.1
+Vo Van E-2008-Nghe An-8.3
+Hoang Van I-2009-Da Nang-7.9
+1000-Pham Van G-2002-9.0-5.4-9.7
+1008-Hoang Van C-2004-7.3-7.0-9.5
+1038-Hoang Van G-2001-6.6-7.0-5.8
+1019-Le Van C-2002-7.1-8.3-6.6
+Vo Thi F-2009-Hai Phong-7.5
+1037-Ngo Thi D-2001-5.5-5.2-7.9
+1020-Do Thi B-2000-6.1-8.0-7.6
+Bui Van G-2007-Can Tho-7.3
+Dang Thi F-2007-Thanh Hoa-7.8
+1031-Bui Thi B-2003-9.8-7.4-9.6
+1030-Do Thi D-2001-9.4-9.5-9.7
+1007-Pham Van C-2000-7.8-6.7-9.1
+Dang Thi J-2006-Hai Phong-8.1
+Do Van C-2005-Da Nang-6.1
+Dang Thi D-2009-Nam Dinh-9.9
+1025-Do Van E-2002-7.4-8.3-5.7
+1005-Tran Van A-2003-9.3-5.6-7.7
+Do Thi B-2005-Ha Noi-8.2
+Do Van I-2008-Hai Phong-5.6
+1026-Tran Thi J-2004-7.4-6.7-5.8
+1036-Tran Thi F-2000-5.3-9.9-5.5
+Tran Van G-2009-Hai Phong-6.5
+1029-Pham Van I-2001-9.7-9.1-8.2
+1018-Le Van I-2000-5.1-7.7-6.7
+1009-Hoang Van E-2002-5.3-5.1-8.3
+1035-Vo Thi J-2001-5.7-9.2-8.3
+1039-Do Thi F-2003-6.5-9.0-6.2
+Tran Thi D-2009-Da Nang-8.9
+1001-Nguyen Van I-2001-8.7-6.1-7.3
+1023-Hoang Van C-2004-6.4-8.0-6.3
+1002-Dang Van G-2004-9.7-9.9-8.6
+Bui Van I-2006-Hai Phong-7.7
+1010-Pham Van C-2000-8.6-6.7-5.7
+1006-Le Van A-2002-9.2-7.3-9.0
+1032-Bui Van G-2003-5.0-8.2-9.2
+Dang Thi H-2006-Thanh Hoa-6.1
+Vo Thi F-2005-Hue-8.4
+Do Van G-2009-Ha Noi-9.7
+Vo Van E-2006-Ha Noi-8.9
+1021-Ngo Van I-2000-6.8-5.2-7.2
+1003-Vo Thi H-2001-9.7-7.6-10.0
+1017-Ngo Van A-2002-8.8-6.6-9.6
+Hoang Thi D-2006-Can Tho-7.8
+1034-Vo Thi B-2001-9.0-6.6-5.3
+Le Van C-2005-Can Tho-5.0
+1012-Do Van E-2004-7.4-8.7-5.0
+1015-Bui Van E-2000-5.9-6.9-6.9
+1011-Pham Thi F-2003-8.6-7.9-9.8
+Le Thi B-2005-Hai Phong-8.3
+1004-Ngo Thi H-2002-7.3-9.4-7.9
+Bui Van C-2009-Nghe An-5.6
+1024-Pham Thi H-2002-9.0-5.7-5.2
+Ngo Van G-2008-Can Tho-9.6
+1022-Nguyen Van I-2001-5.9-9.9-6.7
+Bui Van I-2007-Hai Phong-8.5
